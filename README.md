@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heyitsruby
 - 👀 I’m interested in ... too many things
 - 🌱 I’m currently learning ... full stack development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Any interesting and challenging projects
 - 📫 How to reach me ... at rubydiazriv@gmail.com
 - 😄 Pronouns: ... she/her/hers
 - ⚡ Fun fact: ... giraffes are 30 times more likely to get hit by lighting than people
